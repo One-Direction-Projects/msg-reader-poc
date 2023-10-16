@@ -1,0 +1,16 @@
+{
+  "name": "msg-reader-poc",
+  "version": "1.0.0",
+  "description": "PoC for reading message from any messaging platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.63.0"
+  }
+}
